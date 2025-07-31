@@ -1,0 +1,20 @@
+Variable,Breakdown,Breakdown_category,Year,RD_Value,Status,Footnotes,Unit_for_TSM_and_CSV,dummydate
+,ANZSIC_1_Digit,"A_Agriculture, Forestry and Fishing",#NAME?,91,p,12,NZ Dollars (millions),09-02-2023
+_01_Current_and_Capital_Expenditure:_Total_RD_Expenditure,ANZSIC_1_Digit,"A_Agriculture, Forestry and Fishing",2018,89,,12,NZ Dollars (millions),10-02-2023
+_01_Current_and_Capital_Expenditure:_Total_RD_Expenditure,ANZSIC_1_Digit,,2019,0,p,12,NZ Dollars (millions),11-02-2023
+_01_Current_and_Capital_Expenditure:_Total_RD_Expenditure,ANZSIC_1_Digit,"A_Agriculture, Forestry and Fishing",2020,99,P,12,NZ Dollars (millions),12-02-2023
+_01_Current_and_Capital_Expenditure:_Total_RD_Expenditure,,"A_Agriculture, Forestry and Fishing",2021,0,null,12,NZ Dollars (millions),13-02-2023
+_01_Current_and_Capital_Expenditure:_Total_RD_Expenditure,ANZSIC_1_Digit,B_Mining,2016,5,p,12,NZ Dollars (millions),14-102-2023
+_01_Current_and_Capital_Expenditure:_Total_RD_Expenditure,ANZSIC_1_Digit,B_Mining,2018,9,p,12,89,15-02-2023
+_01_Current_and_Capital_Expenditure:_Total_RD_Expenditure,ANZSIC_1_Digit,null,2019,null,null,12,NZ Dollars (millions),16-02-2023
+_01_Current_and_Capital_Expenditure:_Total_RD_Expenditure,ANZSIC_1_Digit,B_Mining,2020,2,P,12,NZ Dollars (millions),17-02-2023
+_01_Current_and_Capital_Expenditure:_Total_RD_Expenditure,ANZSIC_1_Digit,B_Mining,2021,null,p,12,NZ Dollars (millions),18-02-20203
+,ANZSIC_1_Digit,C_Manufacturing,2016,671,,12,NZ Dollars (millions),19-02-2023
+_01_Current_and_Capital_Expenditure:_Total_RD_Expenditure,ANZSIC_1_Digit,C_Manufacturing,2018,673,p,12,NZ Dollars (millions),20-02-2023
+_01_Current_and_Capital_Expenditure:_Total_RD_Expenditure,ANZSIC_1_Digit,C_Manufacturing,2019,0,,12,NZ Dollars (millions),21-02-2023
+_01_Current_and_Capital_Expenditure:_Total_RD_Expenditure,ANZSIC_1_Digit,C_Manufacturing,2020,825,P,12,NZ Dollars (millions),22-02-2023
+_01_Current_and_Capital_Expenditure:_Total_RD_Expenditure,ANZSIC_1_Digit,null,null,null,null,12,NZ Dollars (millions),23-02-2023
+_01_Current_and_Capital_Expenditure:_Total_RD_Expenditure,ANZSIC_1_Digit,"D_Electricity, Gas, Water and Waste Services",2016,6,null,3 and 12,45,24-02-2023
+_01_Current_and_Capital_Expenditure:_Total_RD_Expenditure,,"D_Electricity, Gas, Water and Waste Services",2018,6,p,3 and 12,NZ Dollars (millions),25-02-2023
+_01_Current_and_Capital_Expenditure:_Total_RD_Expenditure,ANZSIC_1_Digit,"D_Electricity, Gas, Water and Waste Services",2019,null,null,3 and 12,NZ Dollars (millions),26-02-2023
+,ANZSIC_1_Digit,"D_Electricity, Gas, Water and Waste Services",2020,26,P,3 and 12,NZ Dollars (millions),27-02-2023
